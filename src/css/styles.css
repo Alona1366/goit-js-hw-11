@@ -40,9 +40,9 @@ input[type='text'] {
   background-color: #D9556D;
 }
 
-#search-form.page-is-scrolled {
+/* #search-form.page-is-scrolled {
   opacity: 0.8;
-}
+} */
 
 .search-panel {
   display: flex;
@@ -83,7 +83,7 @@ button[type='submit'] {
 .photo-card {
   flex-basis: calc((100% - 20px * 3) / 4);
   border-radius: 0 0 5px 5px;
-  background-color: #fff9dc;
+  background-color: #fbebee;
 }
 
 .thumb {
